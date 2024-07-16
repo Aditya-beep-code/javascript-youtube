@@ -1,0 +1,30 @@
+"use strict"; //treat all js code as a newer version
+
+// alert(3 + 3) // we are using node js not browser it does not run the code
+
+console.log("Aditya")
+// it increase the readability of code
+ console.log(3 + 3)
+
+
+ let name = "Aditya"//string data type
+ let age = 18 //integer data type
+ let isLoggedIn = false // boolean data type
+ /*
+ //primitive data types
+ number = 2 to the power of 53
+ bigint
+ string=""
+ boolean = true false
+ //null = standalone value,representation of empty value
+ //undefined = value not defined 
+ //symbol = uniquness
+
+
+ //objects
+ */
+console.log(typeof "Aditya Tiwari"); // return the value of a datatype
+console.log(typeof null);
+// it return the object
+console.log(typeof undefined);
+// it return the undefined in object
